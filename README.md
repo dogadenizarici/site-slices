@@ -1,2 +1,2 @@
 # site-slices
-Some website slices to speed up building a full one
+Some website components to speed up building a full one
