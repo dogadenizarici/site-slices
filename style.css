@@ -1,0 +1,14 @@
+:root {
+    --bg-1: #ba9f9f;
+    --bg-2: #3d5967;
+    --txt-color: rgb(67, 37, 37);
+    --red-color: #ad4646;
+    --red-hover-color: #ea6c6c;
+    --red-clicked-color: #e6c59c;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
